@@ -348,10 +348,13 @@ function router() {
     normalize_paths();
   } else if (path === "") {
     path = location.pathname + ditto.index;
+    debugger;
     normalize_paths();
   } else {
-    path = path + ".html";
+    path = path;
   }
+  path += ".html";
+
 
   // 取消scroll事件的监听函数
   // 防止改变下面的变量perc的值

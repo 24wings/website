@@ -3,7 +3,7 @@ var CONFIG = {
   document_title: "ECMAScript 6入门",
 
   // index page
-  index: "README.md",
+  index: "README",
 
   // sidebar file
   sidebar_file: "sidebar.md",
