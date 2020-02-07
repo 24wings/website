@@ -1,4 +1,4 @@
-# [老杨编程集锦]()
+# [动态组件编程]()
 
 作者：[杨杰](http://www.yangjiecode.com)
 
@@ -6,10 +6,15 @@
 
 ## 目录
 
-1. [插件设计](#docs/design/design)
+1. [简介](#docs/front/dynamic-component-program/summary)
+1. [动态组件设计](#docs/front/dynamic-component-program/design-dynamic-component)
+1. [第一个动态组件](#docs/front/dynamic-component-program/dynamic-component-start)
+1. [集成ej2](#docs/front/dynamic-component-program/add-ej2)
+
 
 ## 其他
 
-- [源码](http://github.com/ruanyf/es6tutorial/)
+- [文档源码](http://github.com/24wings/website/)
+- [案例源码](http://github.com/24wings/dynamic-front-samples)
 - [修订历史](https://github.com/ruanyf/es6tutorial/commits/gh-pages)
 - [反馈意见](https://github.com/ruanyf/es6tutorial/issues)

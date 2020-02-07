@@ -1,0 +1,2 @@
+# ./ossutilmac64 cp -r . oss://topshadow -f
+[Error] 2020/02/07 21:52:36 upload assets/css/normalize.css to oss://topshadow/assets/css/normalize.css error, info: stat assets/css/normalize.css: no such file or directory
