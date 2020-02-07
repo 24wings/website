@@ -1,0 +1,25 @@
+{
+  "name": "es6tutorial",
+  "version": "1.0.0",
+  "description": "《ECMAScript 6 入门教程》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。",
+  "main": "config.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "publish": "./ossutilmac64 cp -r  . oss://topshadow -f",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruanyf/es6tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruanyf/es6tutorial/issues"
+  },
+  "homepage": "https://github.com/ruanyf/es6tutorial#readme"
+}

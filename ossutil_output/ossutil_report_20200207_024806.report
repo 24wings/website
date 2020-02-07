@@ -1,0 +1,2 @@
+# ./ossutilmac64 cp -r . oss://yangjiecode -f
+[Error] 2020/02/07 02:49:43 upload node_modules/.package_versions.json to oss://yangjiecode/node_modules/.package_versions.json error, info: stat node_modules/.package_versions.json: no such file or directory
